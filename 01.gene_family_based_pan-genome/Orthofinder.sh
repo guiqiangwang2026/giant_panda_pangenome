@@ -1,0 +1,1 @@
+orthofinder -f pep_files -t 64 -S diamond
